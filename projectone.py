@@ -2,4 +2,5 @@ a=2
 b=6
 c=a+b
 print(c)
-print(a*b)
+d=a*b
+print(d)
